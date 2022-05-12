@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------
-# Modified from Conditional DETR: https://github.com/Atten4Vis/ConditionalDETR
+# Copied from Conditional DETR: https://github.com/Atten4Vis/ConditionalDETR
 # Copyright (c) 2021 Microsoft. All Rights Reserved.
 # ------------------------------------------------------------------------
 
