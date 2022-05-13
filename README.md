@@ -6,7 +6,7 @@
 
 The DETR-based approaches apply the
 transformer encoder-decoder architecture to nature image object detection
-and achieves promising performance. In this paper,
+and achieve promising performance. In this paper,
 we propose a novel gestalt-perception transformer model for diagram object detection.
 Our approach is motivated by that <b>the human visual system tends to perceive patches
 in an image that are similar, close or connected without abrupt directional changes as a perceptual whole object.</b>
