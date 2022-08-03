@@ -152,7 +152,7 @@ The experimental results show that our model achieves the best results in the di
       <td>50</td>
       <td>4</td>
       <td>4</td>
-      <td>29.22M</td>
+      <td>30.56M</td>
       <td><b>0.132</b></td>
       <td><b>0.111</b></td>
       <td><b>0.166</b></td>
@@ -164,10 +164,10 @@ The experimental results show that our model achieves the best results in the di
       <td>4</td>
       <td>4</td>
       <td>29.22M</td>
-      <td>0.118</td>
-      <td>0.107</td>
-      <td>0.164</td>
-      <td>0.167</td>
+      <td>0.115</td>
+      <td>0.104</td>
+      <td>0.151</td>
+      <td>0.152</td>
     </tr>
     <tr>
       <td><b>GPTR(Ours)</b></td>
@@ -188,7 +188,7 @@ The experimental results show that our model achieves the best results in the di
       <td>39.66M</td>
       <td>0.151</td>
       <td>0.091</td>
-      <td>0.200</td>
+      <td>0.196</td>
       <td>0.198</td>
     </tr>
     <tr>
@@ -203,6 +203,17 @@ The experimental results show that our model achieves the best results in the di
       <td>0.204</td>
     </tr>
     <tr>
+      <td>AnchorDETR</td>
+      <td>120</td>
+      <td>6</td>
+      <td>8</td>
+      <td>32.22M</td>
+      <td>0.156</td>
+      <td>0.148</td>
+      <td>0.194</td>
+      <td>0.205</td>
+    </tr>
+    <tr>
       <td><b>GPTR(Ours)</b></td>
       <td>120</td>
       <td>6</td>
@@ -211,7 +222,7 @@ The experimental results show that our model achieves the best results in the di
       <td><b>0.161</b></td>
       <td><b>0.162</b></td>
       <td><b>0.211</b></td>
-      <td><b>0.208</b></td>
+      <td><b>0.215</b></td>
     </tr>
   </tbody>
 </table>
