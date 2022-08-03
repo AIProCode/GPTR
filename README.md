@@ -57,7 +57,7 @@ The newly proposed dataset AI2D* is developed by ourselves to support the novel 
 
 You can click on the links below to download the AI2D* :
 
-BaiduyunDrive: [https://pan.baidu.com/s/1tijw2ti29J8rSAinFkFTVw](https://pan.baidu.com/s/1tijw2ti29J8rSAinFkFTVw), the password for the link is **axby** and the password for the zip file is **gptr**.
+BaiduyunDrive: [https://pan.baidu.com/s/13L1BDsokRRroXWvO-kH2Og](https://pan.baidu.com/s/13L1BDsokRRroXWvO-kH2Og), the password for the link is **abxy** and the password for the zip file is **gptr**.
 
 ### Training
 
