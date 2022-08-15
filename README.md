@@ -138,28 +138,6 @@ The experimental results show that our model achieves the best results in the di
     </tr>
     <tr>
       <td>ConditionDETR</td>
-      <td>50</td>
-      <td>4</td>
-      <td>4</td>
-      <td>29.22M</td>
-      <td>0.100</td>
-      <td>0.102</td>
-      <td>0.140</td>
-      <td>0.146</td>
-    </tr>
-    <tr>
-      <td><b>GPTR(Ours)</b></td>
-      <td>50</td>
-      <td>4</td>
-      <td>4</td>
-      <td>30.56M</td>
-      <td><b>0.132</b></td>
-      <td><b>0.111</b></td>
-      <td><b>0.166</b></td>
-      <td><b>0.181</b></td>
-    </tr>
-    <tr>
-      <td>ConditionDETR</td>
       <td>100</td>
       <td>4</td>
       <td>4</td>
@@ -177,8 +155,8 @@ The experimental results show that our model achieves the best results in the di
       <td>30.56M</td>
       <td><b>0.141</b></td>
       <td><b>0.122</b></td>
-      <td><b>0.175</b></td>
-      <td><b>0.202</b></td>
+      <td><b>0.184</b></td>
+      <td><b>0.189</b></td>
     </tr>
     <tr>
       <td>SMCA-DETR</td>
@@ -186,10 +164,10 @@ The experimental results show that our model achieves the best results in the di
       <td>6</td>
       <td>8</td>
       <td>39.66M</td>
-      <td>0.151</td>
-      <td>0.091</td>
-      <td>0.196</td>
-      <td>0.198</td>
+      <td>0.138</td>
+      <td>0.105</td>
+      <td>0.181</td>
+      <td>0.184</td>
     </tr>
     <tr>
       <td>SAM-DETR</td>
@@ -197,10 +175,10 @@ The experimental results show that our model achieves the best results in the di
       <td>6</td>
       <td>8</td>
       <td>47.08M</td>
-      <td>0.152</td>
-      <td>0.122</td>
+      <td>0.146</td>
+      <td>0.109</td>
       <td>0.190</td>
-      <td>0.204</td>
+      <td>0.185</td>
     </tr>
     <tr>
       <td>AnchorDETR</td>
@@ -220,7 +198,7 @@ The experimental results show that our model achieves the best results in the di
       <td>8</td>
       <td>33.44M</td>
       <td><b>0.161</b></td>
-      <td><b>0.162</b></td>
+      <td><b>0.153</b></td>
       <td><b>0.211</b></td>
       <td><b>0.215</b></td>
     </tr>
